@@ -15,5 +15,5 @@ class Solution(object):
         return "".join(s_list)
 
 if __name__ == '__main__':
-    s = "hello"
+    s = "leetcode"
     print(Solution().reverseVowels(s))
