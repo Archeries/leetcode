@@ -1,3 +1,5 @@
+# ref: https://discuss.leetcode.com/topic/20692/12-lines-python
+
 class Solution(object):
     def minWindow(self, s, t):
         """
